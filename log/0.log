@@ -1,0 +1,15 @@
+2016-08-04 22:26:05 [INFO] : init context.
+2016-08-04 22:32:16 [INFO] : init context.
+2016-08-04 22:32:17 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 84
+2016-08-04 22:32:50 [INFO] : init context.
+2016-08-04 22:32:51 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 86
+2016-08-04 23:52:56 [INFO] : init context.
+2016-08-04 23:53:01 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 86
+2016-08-04 23:55:30 [INFO] : init context.
+2016-08-04 23:55:31 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 86
+2016-08-04 23:55:51 [INFO] : init context.
+2016-08-04 23:55:52 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 87
+2016-08-04 23:57:26 [INFO] : init context.
+2016-08-04 23:57:29 [ERROR] : get_netvalue  on line 85
+2016-08-04 23:57:48 [INFO] : init context.
+2016-08-04 23:58:05 [ERROR] : get_netvalue  on line 84
