@@ -1,4 +1,7 @@
-import pymongo.connection
+try:
+    from pymongo.connection import MongoClient
+except:
+    from pymongo.mongo_client import MongoClient
 from startpro.core.utils.loader import get_settings
 from startpro.common.utils.log4py import log
 
@@ -9,7 +12,7 @@ def get_mongo():
     global _mongo
     if not _mongo:
         mongo_host = get_settings("mongo_host")
-        _mongo = pymongo.connection.MongoClient(mongo_host)
+        _mongo = MongoClient(mongo_host)
     return _mongo
 
 
