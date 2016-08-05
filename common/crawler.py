@@ -83,7 +83,7 @@ class Crawler(object):
                 url = get_settings("netvalue_url") % (code, self.token)
                 resp = self.session.get(url, headers=self.headers).content
                 resp = json.loads(resp)[0]
-                print resp['name']
+                log.info("netvalue %s:%s" % (resp['symbol'], resp['name']))
                 mongo.insert(resp)
         except:
             s = sys.exc_info()
@@ -97,13 +97,14 @@ class Crawler(object):
                 page = 1
                 while page:
                     url = get_settings("change_position_url") % (code, page, self.token)
-                    resp = self.session.get(url, headers=self.headers)
+                    resp = self.session.get(url, headers=self.headers).content
                     data += resp['list']
                     if resp['count'] * page < resp['totalCount']:
                         page += 1
                     else:
                         page = 0
                 mongo.insert(dict(symbol="ZH%d" % code, data=data))
+                log.info("change_position ZH%d")
         except:
             s = sys.exc_info()
             log.error('get_change_position %s on line %d' % (s[1], s[2].tb_lineno))
