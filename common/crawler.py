@@ -80,7 +80,6 @@ class Crawler(object):
         mongo = get_mongo_collection("xueqiu/netvalue")
         for code in self.iter_code():
             try:
-
                 url = get_settings("netvalue_url") % (code, self.token)
                 resp = self.session.get(url, headers=self.headers).content
                 resp = json.loads(resp)[0]
@@ -99,7 +98,7 @@ class Crawler(object):
                 page = 1
                 while page:
                     url = get_settings("change_position_url") % (code, page, self.token)
-                    resp = self.session.get(url, headers=self.headers).content
+                    resp = json.loads(self.session.get(url, headers=self.headers).content)
                     data += resp['list']
                     if resp['count'] * page < resp['totalCount']:
                         page += 1
