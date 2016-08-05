@@ -77,22 +77,23 @@ class Crawler(object):
         return token
 
     def get_netvalue(self):
-        try:
-            mongo = get_mongo_collection("xueqiu/netvalue")
-            for code in self.iter_code():
+        mongo = get_mongo_collection("xueqiu/netvalue")
+        for code in self.iter_code():
+            try:
+
                 url = get_settings("netvalue_url") % (code, self.token)
                 resp = self.session.get(url, headers=self.headers).content
                 resp = json.loads(resp)[0]
                 log.info("netvalue %s:%s" % (resp['symbol'], resp['name']))
                 mongo.insert(resp)
-        except:
-            s = sys.exc_info()
-            log.error('get_netvalue %s on line %d' % (s[1], s[2].tb_lineno))
+            except:
+                s = sys.exc_info()
+                log.error('get_netvalue %s on line %d' % (s[1], s[2].tb_lineno))
 
     def get_change_position(self):
-        try:
-            mongo = get_mongo_collection("xueqiu/change_position")
-            for code in self.iter_code():
+        mongo = get_mongo_collection("xueqiu/change_position")
+        for code in self.iter_code():
+            try:
                 data = []
                 page = 1
                 while page:
@@ -105,9 +106,9 @@ class Crawler(object):
                         page = 0
                 mongo.insert(dict(symbol="ZH%d" % code, data=data))
                 log.info("change_position ZH%d")
-        except:
-            s = sys.exc_info()
-            log.error('get_change_position %s on line %d' % (s[1], s[2].tb_lineno))
+            except:
+                s = sys.exc_info()
+                log.error('get_change_position %s on line %d' % (s[1], s[2].tb_lineno))
 
     @staticmethod
     def iter_code():
