@@ -99,16 +99,15 @@ class Crawler(object):
                 while page:
                     url = get_settings("change_position_url") % (code, page, self.token)
                     resp = self.session.get(url, headers=self.headers).content
-                    print resp
                     resp = json.loads(resp)
                     data += resp['list']
-                    if resp['count'] * page < resp['totalCount']:
+                    if resp['count'] * page <= resp['totalCount']:
                         page += 1
                     else:
                         page = 0
                 mongo.insert(dict(symbol="ZH%d" % code, data=data))
                 if code % 1000 == 0:
-                    log.info("change_position ZH%d")
+                    log.info("change_position ZH%d" % code)
             except:
                 s = sys.exc_info()
                 log.error('get_change_position %s on line %d' % (s[1], s[2].tb_lineno))
