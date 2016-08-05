@@ -98,7 +98,9 @@ class Crawler(object):
                 page = 1
                 while page:
                     url = get_settings("change_position_url") % (code, page, self.token)
-                    resp = json.loads(self.session.get(url, headers=self.headers).content)
+                    resp = self.session.get(url, headers=self.headers).content
+                    print resp
+                    resp = json.loads(resp)
                     data += resp['list']
                     if resp['count'] * page < resp['totalCount']:
                         page += 1
