@@ -1,0 +1,7 @@
+*.pyc
+*.pyd
+*.pid
+*.tmp
+*/*.pyc
+client_file/
+log/
