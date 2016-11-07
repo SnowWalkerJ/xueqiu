@@ -1,9 +1,8 @@
 import requests
-import re
+
 import sys
 import json
 import hashlib
-import cookielib
 from common.db.mongo import *
 from startpro.core.utils.loader import get_settings
 from startpro.common.utils.log4py import log
@@ -111,6 +110,38 @@ class Crawler(object):
             except:
                 s = sys.exc_info()
                 log.error('get_change_position %s on line %d' % (s[1], s[2].tb_lineno))
+
+    def get_stock_comment(self, stock_id):
+        import re
+        from models.stock_comment import Comment
+        page, max_page = 1, 100
+        data = []
+        while page <= max_page:
+            try:
+                url = get_settings("stock_comment_url") % (stock_id, page, self.token)
+                resp = self.session.get(url, headers=self.headers).content
+                try:
+                    resp = json.loads(resp)
+                except:
+                    break
+                max_page = resp.get('maxPage', 100)
+                if not resp.get('list'):
+                    break
+                for record in resp.get('list'):
+                    text = re.sub("<.+?>", "", record.get("text") or record.get('description', ""))
+                    text = text[:min(len(text), 999)]
+                    data.append(Comment(
+                        text=text,
+                        created_at=record['created_at'] / 1000,
+                        # id=record['id'],
+                        user_id=record['user_id'],
+                        stock_id=stock_id,
+                    ))
+            except:
+                s = sys.exc_info()
+                log.error('get_stock_comment %s on line %d' % (s[1], s[2].tb_lineno))
+        return data
+
 
     @staticmethod
     def iter_code():
