@@ -6,6 +6,7 @@ import hashlib
 from common.db.mongo import *
 from startpro.core.utils.loader import get_settings
 from startpro.common.utils.log4py import log
+from time import sleep
 
 
 class Crawler(object):
@@ -136,6 +137,7 @@ class Crawler(object):
                         stock_id=stock_id,
                         id=record['id']
                     ))
+                sleep(1)
             except:
                 s = sys.exc_info()
                 log.error('get_stock_comment %s on line %d' % (s[1], s[2].tb_lineno))
