@@ -8,5 +8,5 @@ def run(**kwargs):
     print crawler.token
     # print crawler.get_xsrf(), crawler.is_login()
     # crawler.load_cookies()
-    crawler.get_netvalue()
+    #crawler.get_netvalue()
     crawler.get_change_position()

@@ -1,15 +1,2409 @@
-2016-08-04 22:26:05 [INFO] : init context.
-2016-08-04 22:32:16 [INFO] : init context.
-2016-08-04 22:32:17 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 84
-2016-08-04 22:32:50 [INFO] : init context.
-2016-08-04 22:32:51 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 86
-2016-08-04 23:52:56 [INFO] : init context.
-2016-08-04 23:53:01 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 86
-2016-08-04 23:55:30 [INFO] : init context.
-2016-08-04 23:55:31 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 86
-2016-08-04 23:55:51 [INFO] : init context.
-2016-08-04 23:55:52 [ERROR] : get_netvalue Extra data: line 1 column 5 - line 1 column 35 (char 4 - 34) on line 87
-2016-08-04 23:57:26 [INFO] : init context.
-2016-08-04 23:57:29 [ERROR] : get_netvalue  on line 85
-2016-08-04 23:57:48 [INFO] : init context.
-2016-08-04 23:58:05 [ERROR] : get_netvalue  on line 84
+2016-08-06 07:29:32 [INFO] : init context.
+2016-08-06 07:29:33 [INFO] : change_position ZH%d
+2016-08-06 07:29:36 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:38 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:38 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:38 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:39 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:39 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:42 [ERROR] : get_change_position 'list' on line 102
+2016-08-06 07:29:44 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:44 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:44 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:44 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:44 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:45 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:45 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:45 [ERROR] : get_change_position  on line 101
+2016-08-06 07:29:45 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:02 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:02 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:02 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:03 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:03 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:03 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:03 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:03 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:04 [ERROR] : get_change_position  on line 101
+2016-08-06 07:30:05 [ERROR] : get_change_position  on line 107
+2016-08-06 07:30:05 [ERROR] : get_change_position  on line 107
+2016-08-06 07:30:05 [ERROR] : get_change_position  on line 101
+2016-08-06 07:34:24 [INFO] : init context.
+2016-08-06 07:34:24 [INFO] : change_position ZH%d
+2016-08-06 07:34:26 [ERROR] : get_change_position  on line 101
+2016-08-06 07:34:27 [ERROR] : get_change_position  on line 101
+2016-08-06 07:34:27 [ERROR] : get_change_position  on line 101
+2016-08-06 07:34:28 [ERROR] : get_change_position  on line 101
+2016-08-06 07:34:28 [ERROR] : get_change_position  on line 101
+2016-08-06 07:34:28 [ERROR] : get_change_position  on line 101
+2016-08-06 07:34:28 [ERROR] : get_change_position  on line 101
+2016-08-06 07:34:35 [ERROR] : get_change_position 'list' on line 104
+2016-08-06 07:40:10 [INFO] : init context.
+2016-08-06 07:40:10 [INFO] : change_position ZH100000
+2016-08-06 07:40:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:41:37 [INFO] : change_position ZH101000
+2016-08-06 07:43:04 [INFO] : change_position ZH102000
+2016-08-06 07:43:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:43:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:44:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:44:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:44:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:44:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:44:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:44:49 [INFO] : change_position ZH103000
+2016-08-06 07:45:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:45:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:46:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:46:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:46:17 [INFO] : change_position ZH104000
+2016-08-06 07:46:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:47:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:47:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:47:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:47:44 [INFO] : change_position ZH105000
+2016-08-06 07:47:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:47:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:47:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:48:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:48:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:48:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:49:15 [INFO] : change_position ZH106000
+2016-08-06 07:49:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:50:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:50:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:50:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:50:33 [INFO] : change_position ZH107000
+2016-08-06 07:50:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:50:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:50:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:51:49 [INFO] : change_position ZH108000
+2016-08-06 07:52:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:52:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:53:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:53:04 [INFO] : change_position ZH109000
+2016-08-06 07:54:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:54:21 [INFO] : change_position ZH110000
+2016-08-06 07:54:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:55:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:55:48 [INFO] : change_position ZH111000
+2016-08-06 07:56:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:57:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:57:06 [INFO] : change_position ZH112000
+2016-08-06 07:57:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:57:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:58:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:58:26 [INFO] : change_position ZH113000
+2016-08-06 07:58:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 07:59:40 [INFO] : change_position ZH114000
+2016-08-06 08:00:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:00:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:00:53 [INFO] : change_position ZH115000
+2016-08-06 08:01:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:02:11 [INFO] : change_position ZH116000
+2016-08-06 08:02:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:02:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:02:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:02:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:03:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:03:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:03:31 [INFO] : change_position ZH117000
+2016-08-06 08:03:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:04:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:04:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:04:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:04:50 [INFO] : change_position ZH118000
+2016-08-06 08:05:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:06:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:06:12 [INFO] : change_position ZH119000
+2016-08-06 08:06:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:07:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:07:36 [INFO] : change_position ZH120000
+2016-08-06 08:08:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:08:49 [INFO] : change_position ZH121000
+2016-08-06 08:08:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:09:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:09:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:09:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:10:08 [INFO] : change_position ZH122000
+2016-08-06 08:10:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:10:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:11:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:11:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:11:31 [INFO] : change_position ZH123000
+2016-08-06 08:11:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:11:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:12:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:12:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:12:48 [INFO] : change_position ZH124000
+2016-08-06 08:12:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:12:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:13:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:13:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:13:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:14:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:14:22 [INFO] : change_position ZH125000
+2016-08-06 08:14:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:14:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:15:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:15:42 [INFO] : change_position ZH126000
+2016-08-06 08:16:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:16:59 [INFO] : change_position ZH127000
+2016-08-06 08:17:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:17:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:17:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:17:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:18:25 [INFO] : change_position ZH128000
+2016-08-06 08:18:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:19:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:19:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:19:49 [INFO] : change_position ZH129000
+2016-08-06 08:20:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:20:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:21:15 [INFO] : change_position ZH130000
+2016-08-06 08:21:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:22:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:22:37 [INFO] : change_position ZH131000
+2016-08-06 08:23:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:23:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:24:02 [INFO] : change_position ZH132000
+2016-08-06 08:24:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:24:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:24:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:24:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:24:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:24:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:25:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:25:25 [INFO] : change_position ZH133000
+2016-08-06 08:25:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:26:45 [INFO] : change_position ZH134000
+2016-08-06 08:27:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:27:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:28:08 [INFO] : change_position ZH135000
+2016-08-06 08:28:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:28:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:29:29 [INFO] : change_position ZH136000
+2016-08-06 08:29:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:29:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:30:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:30:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:30:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:30:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:30:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:31:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:31:03 [INFO] : change_position ZH137000
+2016-08-06 08:31:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:31:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:32:18 [INFO] : change_position ZH138000
+2016-08-06 08:32:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:32:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:32:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:33:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:33:42 [INFO] : change_position ZH139000
+2016-08-06 08:34:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:35:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:35:08 [INFO] : change_position ZH140000
+2016-08-06 08:35:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:35:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:35:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:35:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:35:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:36:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:36:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:36:42 [INFO] : change_position ZH141000
+2016-08-06 08:36:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:38:07 [INFO] : change_position ZH142000
+2016-08-06 08:38:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:38:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:38:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:38:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:39:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:39:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:39:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:39:32 [INFO] : change_position ZH143000
+2016-08-06 08:39:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:39:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:39:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:40:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:40:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:41:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:41:08 [INFO] : change_position ZH144000
+2016-08-06 08:41:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:41:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:41:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:42:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:42:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:42:39 [INFO] : change_position ZH145000
+2016-08-06 08:43:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:44:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:44:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:44:15 [INFO] : change_position ZH146000
+2016-08-06 08:44:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:45:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:45:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:45:44 [INFO] : change_position ZH147000
+2016-08-06 08:45:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:46:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:46:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:47:00 [INFO] : change_position ZH148000
+2016-08-06 08:47:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:47:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:47:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:48:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:48:30 [INFO] : change_position ZH149000
+2016-08-06 08:48:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:49:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:50:02 [INFO] : change_position ZH150000
+2016-08-06 08:50:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:51:34 [INFO] : change_position ZH151000
+2016-08-06 08:51:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:51:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:52:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:52:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:52:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:52:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:53:01 [INFO] : change_position ZH152000
+2016-08-06 08:53:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:53:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:53:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:54:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:54:24 [INFO] : change_position ZH153000
+2016-08-06 08:55:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:55:53 [INFO] : change_position ZH154000
+2016-08-06 08:56:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:56:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:57:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:57:26 [INFO] : change_position ZH155000
+2016-08-06 08:57:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:57:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:58:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:58:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:58:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:58:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:58:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:58:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:58:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 08:59:14 [INFO] : change_position ZH156000
+2016-08-06 09:00:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:00:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:00:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:00:41 [INFO] : change_position ZH157000
+2016-08-06 09:02:08 [INFO] : change_position ZH158000
+2016-08-06 09:02:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:02:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:02:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:03:33 [INFO] : change_position ZH159000
+2016-08-06 09:03:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:03:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:04:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:05:06 [INFO] : change_position ZH160000
+2016-08-06 09:05:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:05:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:06:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:06:33 [INFO] : change_position ZH161000
+2016-08-06 09:06:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:07:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:07:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:08:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:08:04 [INFO] : change_position ZH162000
+2016-08-06 09:08:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:09:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:09:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:09:31 [INFO] : change_position ZH163000
+2016-08-06 09:09:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:09:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:10:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:10:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:10:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:10:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:10:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:10:59 [INFO] : change_position ZH164000
+2016-08-06 09:11:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:12:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:12:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:12:25 [INFO] : change_position ZH165000
+2016-08-06 09:13:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:13:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:13:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:13:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:13:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:13:53 [INFO] : change_position ZH166000
+2016-08-06 09:14:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:15:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:15:16 [INFO] : change_position ZH167000
+2016-08-06 09:15:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:15:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:15:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:15:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:16:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:16:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:16:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:16:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:16:47 [INFO] : change_position ZH168000
+2016-08-06 09:17:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:18:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:18:14 [INFO] : change_position ZH169000
+2016-08-06 09:19:34 [INFO] : change_position ZH170000
+2016-08-06 09:19:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:20:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:20:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:20:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:20:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:20:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:20:54 [INFO] : change_position ZH171000
+2016-08-06 09:21:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:22:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:22:13 [INFO] : change_position ZH172000
+2016-08-06 09:22:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:22:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:23:21 [INFO] : change_position ZH173000
+2016-08-06 09:23:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:23:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:24:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:24:31 [INFO] : change_position ZH174000
+2016-08-06 09:25:38 [INFO] : change_position ZH175000
+2016-08-06 09:26:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:26:56 [INFO] : change_position ZH176000
+2016-08-06 09:27:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:27:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:27:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:27:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:28:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:28:22 [INFO] : change_position ZH177000
+2016-08-06 09:28:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:29:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:29:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:29:53 [INFO] : change_position ZH178000
+2016-08-06 09:30:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:31:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:31:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:31:18 [INFO] : change_position ZH179000
+2016-08-06 09:31:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:31:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:32:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:32:49 [INFO] : change_position ZH180000
+2016-08-06 09:33:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:33:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:33:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:34:19 [INFO] : change_position ZH181000
+2016-08-06 09:34:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:35:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:35:44 [INFO] : change_position ZH182000
+2016-08-06 09:36:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:36:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:37:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:37:12 [INFO] : change_position ZH183000
+2016-08-06 09:38:38 [INFO] : change_position ZH184000
+2016-08-06 09:38:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:39:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:39:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:39:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:39:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:39:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:39:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:39:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:39:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:40:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:40:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:40:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:40:20 [INFO] : change_position ZH185000
+2016-08-06 09:40:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:40:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:40:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:41:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:41:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:41:45 [INFO] : change_position ZH186000
+2016-08-06 09:42:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:43:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:43:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:43:13 [INFO] : change_position ZH187000
+2016-08-06 09:44:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:44:40 [INFO] : change_position ZH188000
+2016-08-06 09:46:09 [INFO] : change_position ZH189000
+2016-08-06 09:46:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:46:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:47:36 [INFO] : change_position ZH190000
+2016-08-06 09:47:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:48:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:48:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:48:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:49:09 [INFO] : change_position ZH191000
+2016-08-06 09:49:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:49:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:50:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:50:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:50:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:50:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:50:48 [INFO] : change_position ZH192000
+2016-08-06 09:51:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:51:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:52:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:52:18 [INFO] : change_position ZH193000
+2016-08-06 09:52:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:52:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:52:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:52:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:53:57 [INFO] : change_position ZH194000
+2016-08-06 09:54:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:54:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:54:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:55:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:55:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:55:24 [INFO] : change_position ZH195000
+2016-08-06 09:55:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:56:57 [INFO] : change_position ZH196000
+2016-08-06 09:57:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:57:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:58:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:58:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:58:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:58:33 [INFO] : change_position ZH197000
+2016-08-06 09:59:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 09:59:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:00:01 [INFO] : change_position ZH198000
+2016-08-06 10:00:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:01:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:01:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:01:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:01:32 [INFO] : change_position ZH199000
+2016-08-06 10:02:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:03:01 [INFO] : change_position ZH200000
+2016-08-06 10:03:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:04:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:04:26 [INFO] : change_position ZH201000
+2016-08-06 10:04:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:04:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:05:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:05:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:05:56 [INFO] : change_position ZH202000
+2016-08-06 10:06:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:07:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:07:28 [INFO] : change_position ZH203000
+2016-08-06 10:07:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:07:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:08:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:08:55 [INFO] : change_position ZH204000
+2016-08-06 10:09:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:09:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:09:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:10:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:10:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:10:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:10:25 [INFO] : change_position ZH205000
+2016-08-06 10:11:46 [INFO] : change_position ZH206000
+2016-08-06 10:11:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:13:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:13:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:13:17 [INFO] : change_position ZH207000
+2016-08-06 10:13:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:14:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:14:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:14:38 [INFO] : change_position ZH208000
+2016-08-06 10:14:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:15:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:15:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:15:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:15:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:16:09 [INFO] : change_position ZH209000
+2016-08-06 10:16:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:16:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:17:34 [INFO] : change_position ZH210000
+2016-08-06 10:18:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:18:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:19:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:19:03 [INFO] : change_position ZH211000
+2016-08-06 10:19:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:20:31 [INFO] : change_position ZH212000
+2016-08-06 10:21:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:21:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:21:59 [INFO] : change_position ZH213000
+2016-08-06 10:22:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:23:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:23:16 [INFO] : change_position ZH214000
+2016-08-06 10:23:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:23:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:24:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:24:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:24:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:24:42 [INFO] : change_position ZH215000
+2016-08-06 10:24:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:25:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:25:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:25:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:25:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:26:06 [INFO] : change_position ZH216000
+2016-08-06 10:27:20 [INFO] : change_position ZH217000
+2016-08-06 10:27:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:27:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:27:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:28:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:28:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:28:41 [INFO] : change_position ZH218000
+2016-08-06 10:28:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:29:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:29:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:29:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:29:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:29:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:30:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:30:13 [INFO] : change_position ZH219000
+2016-08-06 10:30:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:30:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:31:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:31:39 [INFO] : change_position ZH220000
+2016-08-06 10:31:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:32:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:32:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:32:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:32:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:33:08 [INFO] : change_position ZH221000
+2016-08-06 10:33:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:33:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:33:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:34:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:34:37 [INFO] : change_position ZH222000
+2016-08-06 10:35:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:36:02 [INFO] : change_position ZH223000
+2016-08-06 10:37:30 [INFO] : change_position ZH224000
+2016-08-06 10:37:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:37:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:38:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:38:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:38:55 [INFO] : change_position ZH225000
+2016-08-06 10:39:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:39:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:40:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:40:32 [INFO] : change_position ZH226000
+2016-08-06 10:40:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:41:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:42:00 [INFO] : change_position ZH227000
+2016-08-06 10:42:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:43:30 [INFO] : change_position ZH228000
+2016-08-06 10:43:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:43:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:44:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:44:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:44:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:44:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:44:55 [INFO] : change_position ZH229000
+2016-08-06 10:44:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:45:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:45:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:45:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:45:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:45:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:46:19 [INFO] : change_position ZH230000
+2016-08-06 10:46:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:46:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:47:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:47:45 [INFO] : change_position ZH231000
+2016-08-06 10:48:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:48:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:48:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:48:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:48:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:49:14 [INFO] : change_position ZH232000
+2016-08-06 10:49:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:50:39 [INFO] : change_position ZH233000
+2016-08-06 10:51:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:51:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:51:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:51:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:51:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:52:06 [INFO] : change_position ZH234000
+2016-08-06 10:52:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:52:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:52:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:53:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:53:42 [INFO] : change_position ZH235000
+2016-08-06 10:54:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:54:58 [INFO] : change_position ZH236000
+2016-08-06 10:55:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:55:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:56:18 [INFO] : change_position ZH237000
+2016-08-06 10:56:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:56:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:57:46 [INFO] : change_position ZH238000
+2016-08-06 10:57:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:59:08 [INFO] : change_position ZH239000
+2016-08-06 10:59:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:59:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 10:59:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:00:34 [INFO] : change_position ZH240000
+2016-08-06 11:00:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:00:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:00:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:00:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:01:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:02:01 [INFO] : change_position ZH241000
+2016-08-06 11:03:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:03:23 [INFO] : change_position ZH242000
+2016-08-06 11:04:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:04:44 [INFO] : change_position ZH243000
+2016-08-06 11:04:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:05:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:05:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:06:04 [INFO] : change_position ZH244000
+2016-08-06 11:06:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:07:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:07:23 [INFO] : change_position ZH245000
+2016-08-06 11:08:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:08:39 [INFO] : change_position ZH246000
+2016-08-06 11:08:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:09:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:09:58 [INFO] : change_position ZH247000
+2016-08-06 11:10:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:10:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:11:14 [INFO] : change_position ZH248000
+2016-08-06 11:12:28 [INFO] : change_position ZH249000
+2016-08-06 11:13:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:13:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:13:49 [INFO] : change_position ZH250000
+2016-08-06 11:14:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:14:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:15:06 [INFO] : change_position ZH251000
+2016-08-06 11:15:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:16:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:16:27 [INFO] : change_position ZH252000
+2016-08-06 11:17:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:17:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:17:50 [INFO] : change_position ZH253000
+2016-08-06 11:18:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:19:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:19:14 [INFO] : change_position ZH254000
+2016-08-06 11:19:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:19:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:20:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:20:30 [INFO] : change_position ZH255000
+2016-08-06 11:21:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:21:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:21:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:21:49 [INFO] : change_position ZH256000
+2016-08-06 11:21:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:22:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:23:09 [INFO] : change_position ZH257000
+2016-08-06 11:23:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:24:30 [INFO] : change_position ZH258000
+2016-08-06 11:25:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:25:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:25:51 [INFO] : change_position ZH259000
+2016-08-06 11:26:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:26:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:26:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:26:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:26:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:26:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:26:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:27:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:27:23 [INFO] : change_position ZH260000
+2016-08-06 11:28:39 [INFO] : change_position ZH261000
+2016-08-06 11:29:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:29:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:30:00 [INFO] : change_position ZH262000
+2016-08-06 11:30:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:31:16 [INFO] : change_position ZH263000
+2016-08-06 11:31:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:31:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:31:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:32:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:32:35 [INFO] : change_position ZH264000
+2016-08-06 11:33:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:33:51 [INFO] : change_position ZH265000
+2016-08-06 11:34:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:34:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:35:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:35:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:35:29 [INFO] : change_position ZH266000
+2016-08-06 11:35:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:36:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:36:39 [INFO] : change_position ZH267000
+2016-08-06 11:36:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:36:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:37:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:37:56 [INFO] : change_position ZH268000
+2016-08-06 11:39:06 [INFO] : change_position ZH269000
+2016-08-06 11:40:15 [INFO] : change_position ZH270000
+2016-08-06 11:40:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:41:34 [INFO] : change_position ZH271000
+2016-08-06 11:42:43 [INFO] : change_position ZH272000
+2016-08-06 11:43:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:43:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:43:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:44:01 [INFO] : change_position ZH273000
+2016-08-06 11:44:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:45:11 [INFO] : change_position ZH274000
+2016-08-06 11:45:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:46:28 [INFO] : change_position ZH275000
+2016-08-06 11:46:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:47:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:47:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:47:50 [INFO] : change_position ZH276000
+2016-08-06 11:48:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:49:08 [INFO] : change_position ZH277000
+2016-08-06 11:50:22 [INFO] : change_position ZH278000
+2016-08-06 11:51:33 [INFO] : change_position ZH279000
+2016-08-06 11:51:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:52:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:52:56 [INFO] : change_position ZH280000
+2016-08-06 11:53:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:54:12 [INFO] : change_position ZH281000
+2016-08-06 11:55:24 [INFO] : change_position ZH282000
+2016-08-06 11:55:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:56:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:56:36 [INFO] : change_position ZH283000
+2016-08-06 11:56:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:57:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:57:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:57:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:57:58 [INFO] : change_position ZH284000
+2016-08-06 11:58:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 11:59:11 [INFO] : change_position ZH285000
+2016-08-06 12:00:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:00:19 [INFO] : change_position ZH286000
+2016-08-06 12:00:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:01:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:01:31 [INFO] : change_position ZH287000
+2016-08-06 12:01:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:02:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:02:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:02:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:02:57 [INFO] : change_position ZH288000
+2016-08-06 12:04:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:04:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:04:14 [INFO] : change_position ZH289000
+2016-08-06 12:05:25 [INFO] : change_position ZH290000
+2016-08-06 12:05:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:05:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:05:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:06:37 [INFO] : change_position ZH291000
+2016-08-06 12:06:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:07:48 [INFO] : change_position ZH292000
+2016-08-06 12:08:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:08:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:08:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:08:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:09:03 [INFO] : change_position ZH293000
+2016-08-06 12:09:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:09:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:09:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:10:21 [INFO] : change_position ZH294000
+2016-08-06 12:10:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:11:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:11:30 [INFO] : change_position ZH295000
+2016-08-06 12:11:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:12:43 [INFO] : change_position ZH296000
+2016-08-06 12:13:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:13:58 [INFO] : change_position ZH297000
+2016-08-06 12:15:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:15:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:15:17 [INFO] : change_position ZH298000
+2016-08-06 12:15:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:16:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:16:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:16:35 [INFO] : change_position ZH299000
+2016-08-06 12:17:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:17:45 [INFO] : change_position ZH300000
+2016-08-06 12:18:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:18:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:18:57 [INFO] : change_position ZH301000
+2016-08-06 12:19:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:19:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:20:08 [INFO] : change_position ZH302000
+2016-08-06 12:20:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:21:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:21:18 [INFO] : change_position ZH303000
+2016-08-06 12:21:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:22:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:22:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:22:37 [INFO] : change_position ZH304000
+2016-08-06 12:22:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:23:48 [INFO] : change_position ZH305000
+2016-08-06 12:25:00 [INFO] : change_position ZH306000
+2016-08-06 12:25:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:26:08 [INFO] : change_position ZH307000
+2016-08-06 12:27:21 [INFO] : change_position ZH308000
+2016-08-06 12:27:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:27:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:28:31 [INFO] : change_position ZH309000
+2016-08-06 12:29:43 [INFO] : change_position ZH310000
+2016-08-06 12:30:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:30:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:30:51 [INFO] : change_position ZH311000
+2016-08-06 12:31:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:32:03 [INFO] : change_position ZH312000
+2016-08-06 12:33:10 [INFO] : change_position ZH313000
+2016-08-06 12:33:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:34:25 [INFO] : change_position ZH314000
+2016-08-06 12:35:35 [INFO] : change_position ZH315000
+2016-08-06 12:36:47 [INFO] : change_position ZH316000
+2016-08-06 12:37:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:37:54 [INFO] : change_position ZH317000
+2016-08-06 12:38:59 [INFO] : change_position ZH318000
+2016-08-06 12:39:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:40:07 [INFO] : change_position ZH319000
+2016-08-06 12:41:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:41:13 [INFO] : change_position ZH320000
+2016-08-06 12:41:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:41:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:42:27 [INFO] : change_position ZH321000
+2016-08-06 12:42:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:43:34 [INFO] : change_position ZH322000
+2016-08-06 12:44:37 [INFO] : change_position ZH323000
+2016-08-06 12:45:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:45:46 [INFO] : change_position ZH324000
+2016-08-06 12:46:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:46:55 [INFO] : change_position ZH325000
+2016-08-06 12:47:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:48:08 [INFO] : change_position ZH326000
+2016-08-06 12:49:16 [INFO] : change_position ZH327000
+2016-08-06 12:50:20 [INFO] : change_position ZH328000
+2016-08-06 12:51:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:51:25 [INFO] : change_position ZH329000
+2016-08-06 12:51:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:52:31 [INFO] : change_position ZH330000
+2016-08-06 12:53:42 [INFO] : change_position ZH331000
+2016-08-06 12:54:54 [INFO] : change_position ZH332000
+2016-08-06 12:56:02 [INFO] : change_position ZH333000
+2016-08-06 12:57:11 [INFO] : change_position ZH334000
+2016-08-06 12:57:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:58:22 [INFO] : change_position ZH335000
+2016-08-06 12:59:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:59:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 12:59:35 [INFO] : change_position ZH336000
+2016-08-06 12:59:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:00:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:00:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:00:49 [INFO] : change_position ZH337000
+2016-08-06 13:01:58 [INFO] : change_position ZH338000
+2016-08-06 13:02:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:03:10 [INFO] : change_position ZH339000
+2016-08-06 13:04:15 [INFO] : change_position ZH340000
+2016-08-06 13:04:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:04:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:05:28 [INFO] : change_position ZH341000
+2016-08-06 13:05:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:05:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:06:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:06:42 [INFO] : change_position ZH342000
+2016-08-06 13:06:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:07:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:07:54 [INFO] : change_position ZH343000
+2016-08-06 13:09:04 [INFO] : change_position ZH344000
+2016-08-06 13:10:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:10:13 [INFO] : change_position ZH345000
+2016-08-06 13:11:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:11:22 [INFO] : change_position ZH346000
+2016-08-06 13:12:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:12:27 [INFO] : change_position ZH347000
+2016-08-06 13:12:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:13:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:13:38 [INFO] : change_position ZH348000
+2016-08-06 13:13:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:13:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:14:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:14:48 [INFO] : change_position ZH349000
+2016-08-06 13:15:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:15:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:15:53 [INFO] : change_position ZH350000
+2016-08-06 13:16:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:17:04 [INFO] : change_position ZH351000
+2016-08-06 13:18:10 [INFO] : change_position ZH352000
+2016-08-06 13:19:12 [INFO] : change_position ZH353000
+2016-08-06 13:19:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:20:23 [INFO] : change_position ZH354000
+2016-08-06 13:20:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:21:36 [INFO] : change_position ZH355000
+2016-08-06 13:22:42 [INFO] : change_position ZH356000
+2016-08-06 13:22:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:23:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:23:53 [INFO] : change_position ZH357000
+2016-08-06 13:24:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:24:58 [INFO] : change_position ZH358000
+2016-08-06 13:26:05 [INFO] : change_position ZH359000
+2016-08-06 13:27:16 [INFO] : change_position ZH360000
+2016-08-06 13:28:29 [INFO] : change_position ZH361000
+2016-08-06 13:29:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:29:39 [INFO] : change_position ZH362000
+2016-08-06 13:30:51 [INFO] : change_position ZH363000
+2016-08-06 13:31:53 [INFO] : change_position ZH364000
+2016-08-06 13:32:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:32:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:33:03 [INFO] : change_position ZH365000
+2016-08-06 13:34:11 [INFO] : change_position ZH366000
+2016-08-06 13:35:25 [INFO] : change_position ZH367000
+2016-08-06 13:36:29 [INFO] : change_position ZH368000
+2016-08-06 13:36:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:37:36 [INFO] : change_position ZH369000
+2016-08-06 13:38:38 [INFO] : change_position ZH370000
+2016-08-06 13:38:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:38:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:39:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:39:48 [INFO] : change_position ZH371000
+2016-08-06 13:40:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:40:56 [INFO] : change_position ZH372000
+2016-08-06 13:42:08 [INFO] : change_position ZH373000
+2016-08-06 13:42:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:43:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:43:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:43:21 [INFO] : change_position ZH374000
+2016-08-06 13:43:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:44:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:44:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:44:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:44:34 [INFO] : change_position ZH375000
+2016-08-06 13:44:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:44:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:45:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:45:47 [INFO] : change_position ZH376000
+2016-08-06 13:46:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:46:52 [INFO] : change_position ZH377000
+2016-08-06 13:47:58 [INFO] : change_position ZH378000
+2016-08-06 13:48:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:49:06 [INFO] : change_position ZH379000
+2016-08-06 13:49:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:49:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:49:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:50:16 [INFO] : change_position ZH380000
+2016-08-06 13:50:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:51:20 [INFO] : change_position ZH381000
+2016-08-06 13:51:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:52:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:52:30 [INFO] : change_position ZH382000
+2016-08-06 13:53:43 [INFO] : change_position ZH383000
+2016-08-06 13:54:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:54:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:54:54 [INFO] : change_position ZH384000
+2016-08-06 13:54:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:55:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:56:04 [INFO] : change_position ZH385000
+2016-08-06 13:56:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:57:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:57:15 [INFO] : change_position ZH386000
+2016-08-06 13:57:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:58:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:58:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:58:24 [INFO] : change_position ZH387000
+2016-08-06 13:58:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:58:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:59:39 [INFO] : change_position ZH388000
+2016-08-06 13:59:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 13:59:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:00:52 [INFO] : change_position ZH389000
+2016-08-06 14:02:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:02:04 [INFO] : change_position ZH390000
+2016-08-06 14:02:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:03:17 [INFO] : change_position ZH391000
+2016-08-06 14:03:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:04:34 [INFO] : change_position ZH392000
+2016-08-06 14:05:47 [INFO] : change_position ZH393000
+2016-08-06 14:05:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:06:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:07:00 [INFO] : change_position ZH394000
+2016-08-06 14:07:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:08:12 [INFO] : change_position ZH395000
+2016-08-06 14:08:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:09:33 [INFO] : change_position ZH396000
+2016-08-06 14:10:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:10:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:10:48 [INFO] : change_position ZH397000
+2016-08-06 14:11:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:11:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:12:03 [INFO] : change_position ZH398000
+2016-08-06 14:13:21 [INFO] : change_position ZH399000
+2016-08-06 14:13:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:13:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:14:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:14:37 [INFO] : change_position ZH400000
+2016-08-06 14:15:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:15:52 [INFO] : change_position ZH401000
+2016-08-06 14:16:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:17:05 [INFO] : change_position ZH402000
+2016-08-06 14:17:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:18:21 [INFO] : change_position ZH403000
+2016-08-06 14:19:31 [INFO] : change_position ZH404000
+2016-08-06 14:19:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:20:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:20:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:20:51 [INFO] : change_position ZH405000
+2016-08-06 14:21:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:21:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:21:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:22:06 [INFO] : change_position ZH406000
+2016-08-06 14:22:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:22:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:23:28 [INFO] : change_position ZH407000
+2016-08-06 14:24:37 [INFO] : change_position ZH408000
+2016-08-06 14:24:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:25:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:25:41 [INFO] : change_position ZH409000
+2016-08-06 14:26:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:26:51 [INFO] : change_position ZH410000
+2016-08-06 14:28:06 [INFO] : change_position ZH411000
+2016-08-06 14:28:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:29:18 [INFO] : change_position ZH412000
+2016-08-06 14:29:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:30:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:30:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:30:30 [INFO] : change_position ZH413000
+2016-08-06 14:30:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:31:42 [INFO] : change_position ZH414000
+2016-08-06 14:32:54 [INFO] : change_position ZH415000
+2016-08-06 14:33:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:33:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:33:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:34:04 [INFO] : change_position ZH416000
+2016-08-06 14:34:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:35:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:35:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:35:19 [INFO] : change_position ZH417000
+2016-08-06 14:36:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:36:30 [INFO] : change_position ZH418000
+2016-08-06 14:36:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:37:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:37:44 [INFO] : change_position ZH419000
+2016-08-06 14:37:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:38:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:38:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:39:03 [INFO] : change_position ZH420000
+2016-08-06 14:40:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:40:09 [INFO] : change_position ZH421000
+2016-08-06 14:40:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:41:19 [INFO] : change_position ZH422000
+2016-08-06 14:41:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:42:30 [INFO] : change_position ZH423000
+2016-08-06 14:43:40 [INFO] : change_position ZH424000
+2016-08-06 14:44:50 [INFO] : change_position ZH425000
+2016-08-06 14:46:07 [INFO] : change_position ZH426000
+2016-08-06 14:46:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:47:21 [INFO] : change_position ZH427000
+2016-08-06 14:47:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:48:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:48:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:48:31 [INFO] : change_position ZH428000
+2016-08-06 14:48:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:49:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:49:38 [INFO] : change_position ZH429000
+2016-08-06 14:49:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:50:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:50:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:50:51 [INFO] : change_position ZH430000
+2016-08-06 14:51:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:51:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:51:57 [INFO] : change_position ZH431000
+2016-08-06 14:52:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:52:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:52:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:52:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:52:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:53:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:53:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:53:12 [INFO] : change_position ZH432000
+2016-08-06 14:54:24 [INFO] : change_position ZH433000
+2016-08-06 14:54:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:55:35 [INFO] : change_position ZH434000
+2016-08-06 14:56:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:56:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:56:46 [INFO] : change_position ZH435000
+2016-08-06 14:57:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:57:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 14:58:01 [INFO] : change_position ZH436000
+2016-08-06 14:59:11 [INFO] : change_position ZH437000
+2016-08-06 15:00:18 [INFO] : change_position ZH438000
+2016-08-06 15:01:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:01:30 [INFO] : change_position ZH439000
+2016-08-06 15:02:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:02:33 [INFO] : change_position ZH440000
+2016-08-06 15:03:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:03:40 [INFO] : change_position ZH441000
+2016-08-06 15:03:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:04:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:04:46 [INFO] : change_position ZH442000
+2016-08-06 15:05:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:05:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:05:55 [INFO] : change_position ZH443000
+2016-08-06 15:06:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:06:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:06:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:07:00 [INFO] : change_position ZH444000
+2016-08-06 15:08:09 [INFO] : change_position ZH445000
+2016-08-06 15:09:12 [INFO] : change_position ZH446000
+2016-08-06 15:09:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:09:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:10:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:10:16 [INFO] : change_position ZH447000
+2016-08-06 15:10:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:11:17 [INFO] : change_position ZH448000
+2016-08-06 15:12:19 [INFO] : change_position ZH449000
+2016-08-06 15:13:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:13:28 [INFO] : change_position ZH450000
+2016-08-06 15:14:33 [INFO] : change_position ZH451000
+2016-08-06 15:15:36 [INFO] : change_position ZH452000
+2016-08-06 15:15:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:16:41 [INFO] : change_position ZH453000
+2016-08-06 15:16:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:17:43 [INFO] : change_position ZH454000
+2016-08-06 15:18:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:18:49 [INFO] : change_position ZH455000
+2016-08-06 15:18:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:19:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:19:54 [INFO] : change_position ZH456000
+2016-08-06 15:20:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:21:00 [INFO] : change_position ZH457000
+2016-08-06 15:22:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:22:06 [INFO] : change_position ZH458000
+2016-08-06 15:23:10 [INFO] : change_position ZH459000
+2016-08-06 15:23:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:24:15 [INFO] : change_position ZH460000
+2016-08-06 15:24:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:25:20 [INFO] : change_position ZH461000
+2016-08-06 15:26:26 [INFO] : change_position ZH462000
+2016-08-06 15:26:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:27:34 [INFO] : change_position ZH463000
+2016-08-06 15:28:37 [INFO] : change_position ZH464000
+2016-08-06 15:29:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:29:39 [INFO] : change_position ZH465000
+2016-08-06 15:30:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:30:40 [INFO] : change_position ZH466000
+2016-08-06 15:31:45 [INFO] : change_position ZH467000
+2016-08-06 15:32:50 [INFO] : change_position ZH468000
+2016-08-06 15:33:56 [INFO] : change_position ZH469000
+2016-08-06 15:34:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:35:04 [INFO] : change_position ZH470000
+2016-08-06 15:35:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:35:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:36:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:36:11 [INFO] : change_position ZH471000
+2016-08-06 15:37:17 [INFO] : change_position ZH472000
+2016-08-06 15:37:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:37:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:37:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:37:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:38:22 [INFO] : change_position ZH473000
+2016-08-06 15:38:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:39:26 [INFO] : change_position ZH474000
+2016-08-06 15:39:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:40:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:40:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:40:39 [INFO] : change_position ZH475000
+2016-08-06 15:41:43 [INFO] : change_position ZH476000
+2016-08-06 15:42:48 [INFO] : change_position ZH477000
+2016-08-06 15:43:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:43:52 [INFO] : change_position ZH478000
+2016-08-06 15:44:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:44:57 [INFO] : change_position ZH479000
+2016-08-06 15:45:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:46:03 [INFO] : change_position ZH480000
+2016-08-06 15:47:05 [INFO] : change_position ZH481000
+2016-08-06 15:47:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:47:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:47:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:48:12 [INFO] : change_position ZH482000
+2016-08-06 15:48:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:48:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:49:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:49:12 [INFO] : change_position ZH483000
+2016-08-06 15:49:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:49:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:50:17 [INFO] : change_position ZH484000
+2016-08-06 15:51:23 [INFO] : change_position ZH485000
+2016-08-06 15:52:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:52:22 [INFO] : change_position ZH486000
+2016-08-06 15:53:22 [INFO] : change_position ZH487000
+2016-08-06 15:54:34 [INFO] : change_position ZH488000
+2016-08-06 15:55:35 [INFO] : change_position ZH489000
+2016-08-06 15:56:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:56:39 [INFO] : change_position ZH490000
+2016-08-06 15:57:40 [INFO] : change_position ZH491000
+2016-08-06 15:58:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:58:39 [INFO] : change_position ZH492000
+2016-08-06 15:58:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 15:59:43 [INFO] : change_position ZH493000
+2016-08-06 16:00:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:00:47 [INFO] : change_position ZH494000
+2016-08-06 16:01:45 [INFO] : change_position ZH495000
+2016-08-06 16:02:45 [INFO] : change_position ZH496000
+2016-08-06 16:03:49 [INFO] : change_position ZH497000
+2016-08-06 16:03:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:04:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:04:51 [INFO] : change_position ZH498000
+2016-08-06 16:05:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:05:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:05:55 [INFO] : change_position ZH499000
+2016-08-06 16:06:57 [INFO] : change_position ZH500000
+2016-08-06 16:07:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:07:59 [INFO] : change_position ZH501000
+2016-08-06 16:08:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:09:01 [INFO] : change_position ZH502000
+2016-08-06 16:09:59 [INFO] : change_position ZH503000
+2016-08-06 16:10:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:10:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:11:00 [INFO] : change_position ZH504000
+2016-08-06 16:11:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:11:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:12:03 [INFO] : change_position ZH505000
+2016-08-06 16:13:01 [INFO] : change_position ZH506000
+2016-08-06 16:14:01 [INFO] : change_position ZH507000
+2016-08-06 16:15:02 [INFO] : change_position ZH508000
+2016-08-06 16:15:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:16:07 [INFO] : change_position ZH509000
+2016-08-06 16:16:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:17:13 [INFO] : change_position ZH510000
+2016-08-06 16:18:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:18:25 [INFO] : change_position ZH511000
+2016-08-06 16:18:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:18:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:19:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:19:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:19:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:19:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:19:30 [INFO] : change_position ZH512000
+2016-08-06 16:20:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:20:30 [INFO] : change_position ZH513000
+2016-08-06 16:21:28 [INFO] : change_position ZH514000
+2016-08-06 16:21:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:22:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:22:31 [INFO] : change_position ZH515000
+2016-08-06 16:23:31 [INFO] : change_position ZH516000
+2016-08-06 16:23:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:24:36 [INFO] : change_position ZH517000
+2016-08-06 16:25:34 [INFO] : change_position ZH518000
+2016-08-06 16:25:43 [ERROR] : get_change_position No JSON object could be decoded on line 102
+2016-08-06 16:26:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:26:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:26:38 [INFO] : change_position ZH519000
+2016-08-06 16:27:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:27:37 [INFO] : change_position ZH520000
+2016-08-06 16:28:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:28:38 [INFO] : change_position ZH521000
+2016-08-06 16:29:39 [INFO] : change_position ZH522000
+2016-08-06 16:30:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:30:40 [INFO] : change_position ZH523000
+2016-08-06 16:31:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:31:42 [INFO] : change_position ZH524000
+2016-08-06 16:32:41 [INFO] : change_position ZH525000
+2016-08-06 16:33:42 [INFO] : change_position ZH526000
+2016-08-06 16:33:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:34:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:34:40 [INFO] : change_position ZH527000
+2016-08-06 16:35:38 [INFO] : change_position ZH528000
+2016-08-06 16:36:39 [INFO] : change_position ZH529000
+2016-08-06 16:37:39 [INFO] : change_position ZH530000
+2016-08-06 16:38:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:38:43 [INFO] : change_position ZH531000
+2016-08-06 16:39:47 [INFO] : change_position ZH532000
+2016-08-06 16:40:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:40:51 [INFO] : change_position ZH533000
+2016-08-06 16:41:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:41:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:41:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:41:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:41:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:41:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:42:00 [INFO] : change_position ZH534000
+2016-08-06 16:42:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:43:04 [INFO] : change_position ZH535000
+2016-08-06 16:44:06 [INFO] : change_position ZH536000
+2016-08-06 16:45:05 [INFO] : change_position ZH537000
+2016-08-06 16:45:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:46:07 [INFO] : change_position ZH538000
+2016-08-06 16:47:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:47:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:47:14 [INFO] : change_position ZH539000
+2016-08-06 16:48:16 [INFO] : change_position ZH540000
+2016-08-06 16:48:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:49:24 [INFO] : change_position ZH541000
+2016-08-06 16:50:28 [INFO] : change_position ZH542000
+2016-08-06 16:51:34 [INFO] : change_position ZH543000
+2016-08-06 16:51:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:52:42 [INFO] : change_position ZH544000
+2016-08-06 16:53:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:53:48 [INFO] : change_position ZH545000
+2016-08-06 16:54:53 [INFO] : change_position ZH546000
+2016-08-06 16:55:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:55:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:55:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:56:01 [INFO] : change_position ZH547000
+2016-08-06 16:56:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:57:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:57:03 [INFO] : change_position ZH548000
+2016-08-06 16:57:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:57:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:58:05 [INFO] : change_position ZH549000
+2016-08-06 16:58:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:58:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:59:15 [INFO] : change_position ZH550000
+2016-08-06 16:59:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:59:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 16:59:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:00:25 [INFO] : change_position ZH551000
+2016-08-06 17:00:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:01:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:01:34 [INFO] : change_position ZH552000
+2016-08-06 17:02:42 [INFO] : change_position ZH553000
+2016-08-06 17:03:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:03:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:03:50 [INFO] : change_position ZH554000
+2016-08-06 17:04:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:04:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:05:03 [INFO] : change_position ZH555000
+2016-08-06 17:06:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:06:20 [INFO] : change_position ZH556000
+2016-08-06 17:06:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:07:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:07:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:07:35 [INFO] : change_position ZH557000
+2016-08-06 17:08:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:08:49 [INFO] : change_position ZH558000
+2016-08-06 17:09:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:10:02 [INFO] : change_position ZH559000
+2016-08-06 17:11:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:11:10 [INFO] : change_position ZH560000
+2016-08-06 17:12:22 [INFO] : change_position ZH561000
+2016-08-06 17:12:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:12:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:12:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:12:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:13:37 [INFO] : change_position ZH562000
+2016-08-06 17:13:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:14:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:14:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:14:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:14:47 [INFO] : change_position ZH563000
+2016-08-06 17:15:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:15:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:15:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:16:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:16:15 [INFO] : change_position ZH564000
+2016-08-06 17:16:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:16:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:17:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:17:53 [INFO] : change_position ZH565000
+2016-08-06 17:18:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:18:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:18:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:18:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:19:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:19:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:19:49 [INFO] : change_position ZH566000
+2016-08-06 17:19:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:20:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:20:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:21:09 [INFO] : change_position ZH567000
+2016-08-06 17:21:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:21:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:21:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:22:28 [INFO] : change_position ZH568000
+2016-08-06 17:23:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:23:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:23:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:23:38 [INFO] : change_position ZH569000
+2016-08-06 17:24:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:24:49 [INFO] : change_position ZH570000
+2016-08-06 17:25:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:25:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:25:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:26:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:26:14 [INFO] : change_position ZH571000
+2016-08-06 17:26:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:26:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:26:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:26:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:27:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:27:39 [INFO] : change_position ZH572000
+2016-08-06 17:28:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:28:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:29:07 [INFO] : change_position ZH573000
+2016-08-06 17:29:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:29:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:30:35 [INFO] : change_position ZH574000
+2016-08-06 17:30:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:31:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:31:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:31:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:31:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:32:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:32:14 [INFO] : change_position ZH575000
+2016-08-06 17:32:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:33:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:33:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:33:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:33:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:33:57 [INFO] : change_position ZH576000
+2016-08-06 17:34:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:34:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:34:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:34:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:34:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:34:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:35:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:35:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:35:31 [INFO] : change_position ZH577000
+2016-08-06 17:36:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:36:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:36:51 [INFO] : change_position ZH578000
+2016-08-06 17:37:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:37:59 [INFO] : change_position ZH579000
+2016-08-06 17:38:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:38:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:38:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:39:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:39:11 [INFO] : change_position ZH580000
+2016-08-06 17:40:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:40:16 [INFO] : change_position ZH581000
+2016-08-06 17:41:24 [INFO] : change_position ZH582000
+2016-08-06 17:42:32 [INFO] : change_position ZH583000
+2016-08-06 17:42:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:42:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:43:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:43:49 [INFO] : change_position ZH584000
+2016-08-06 17:43:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:44:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:45:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:45:07 [INFO] : change_position ZH585000
+2016-08-06 17:45:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:46:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:46:28 [INFO] : change_position ZH586000
+2016-08-06 17:46:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:47:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:47:37 [INFO] : change_position ZH587000
+2016-08-06 17:48:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:48:44 [INFO] : change_position ZH588000
+2016-08-06 17:49:46 [INFO] : change_position ZH589000
+2016-08-06 17:51:01 [INFO] : change_position ZH590000
+2016-08-06 17:51:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:51:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:51:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:52:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:52:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:52:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:52:27 [INFO] : change_position ZH591000
+2016-08-06 17:53:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:53:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:53:50 [INFO] : change_position ZH592000
+2016-08-06 17:54:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:54:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:55:04 [INFO] : change_position ZH593000
+2016-08-06 17:55:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:55:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:56:20 [INFO] : change_position ZH594000
+2016-08-06 17:57:37 [INFO] : change_position ZH595000
+2016-08-06 17:58:37 [INFO] : change_position ZH596000
+2016-08-06 17:58:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:58:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:58:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 17:59:36 [INFO] : change_position ZH597000
+2016-08-06 17:59:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:00:40 [INFO] : change_position ZH598000
+2016-08-06 18:01:39 [INFO] : change_position ZH599000
+2016-08-06 18:02:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:02:47 [INFO] : change_position ZH600000
+2016-08-06 18:03:56 [INFO] : change_position ZH601000
+2016-08-06 18:04:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:04:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:05:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:05:10 [INFO] : change_position ZH602000
+2016-08-06 18:05:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:05:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:05:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:05:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:06:23 [INFO] : change_position ZH603000
+2016-08-06 18:07:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:07:31 [INFO] : change_position ZH604000
+2016-08-06 18:08:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:08:40 [INFO] : change_position ZH605000
+2016-08-06 18:09:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:09:45 [INFO] : change_position ZH606000
+2016-08-06 18:10:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:10:52 [INFO] : change_position ZH607000
+2016-08-06 18:11:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:11:57 [INFO] : change_position ZH608000
+2016-08-06 18:12:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:13:04 [INFO] : change_position ZH609000
+2016-08-06 18:13:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:13:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:13:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:14:16 [INFO] : change_position ZH610000
+2016-08-06 18:14:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:15:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:15:24 [INFO] : change_position ZH611000
+2016-08-06 18:15:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:16:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:16:31 [INFO] : change_position ZH612000
+2016-08-06 18:16:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:16:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:17:43 [INFO] : change_position ZH613000
+2016-08-06 18:18:39 [INFO] : change_position ZH614000
+2016-08-06 18:19:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:19:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:19:39 [INFO] : change_position ZH615000
+2016-08-06 18:20:44 [INFO] : change_position ZH616000
+2016-08-06 18:21:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:21:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:21:47 [INFO] : change_position ZH617000
+2016-08-06 18:22:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:22:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:22:56 [INFO] : change_position ZH618000
+2016-08-06 18:23:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:23:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:24:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:24:15 [INFO] : change_position ZH619000
+2016-08-06 18:24:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:24:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:25:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:25:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:25:28 [INFO] : change_position ZH620000
+2016-08-06 18:26:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:26:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:26:38 [INFO] : change_position ZH621000
+2016-08-06 18:27:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:27:57 [INFO] : change_position ZH622000
+2016-08-06 18:28:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:29:08 [INFO] : change_position ZH623000
+2016-08-06 18:29:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:29:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:29:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:30:20 [INFO] : change_position ZH624000
+2016-08-06 18:30:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:31:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:31:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:31:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:31:31 [INFO] : change_position ZH625000
+2016-08-06 18:31:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:31:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:32:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:32:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:32:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:32:47 [INFO] : change_position ZH626000
+2016-08-06 18:32:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:33:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:34:03 [INFO] : change_position ZH627000
+2016-08-06 18:34:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:35:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:35:02 [INFO] : change_position ZH628000
+2016-08-06 18:35:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:36:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:36:10 [INFO] : change_position ZH629000
+2016-08-06 18:36:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:36:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:37:27 [INFO] : change_position ZH630000
+2016-08-06 18:37:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:37:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:38:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:38:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:39:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:39:13 [INFO] : change_position ZH631000
+2016-08-06 18:39:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:39:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:39:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:39:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:39:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:40:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:40:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:40:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:40:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:40:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:41:14 [INFO] : change_position ZH632000
+2016-08-06 18:41:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:41:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:41:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:42:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:42:47 [INFO] : change_position ZH633000
+2016-08-06 18:42:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:42:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:42:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:43:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:43:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:43:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:44:23 [INFO] : change_position ZH634000
+2016-08-06 18:44:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:44:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:45:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:45:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:45:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:45:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:45:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:45:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:46:02 [INFO] : change_position ZH635000
+2016-08-06 18:46:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:46:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:46:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:46:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:47:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:47:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:47:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:47:29 [INFO] : change_position ZH636000
+2016-08-06 18:48:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:48:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:48:44 [INFO] : change_position ZH637000
+2016-08-06 18:49:58 [INFO] : change_position ZH638000
+2016-08-06 18:50:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:51:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:51:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:51:24 [INFO] : change_position ZH639000
+2016-08-06 18:51:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:51:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:51:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:52:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:52:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:52:49 [INFO] : change_position ZH640000
+2016-08-06 18:52:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:53:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:53:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:54:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:54:14 [INFO] : change_position ZH641000
+2016-08-06 18:54:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:55:26 [INFO] : change_position ZH642000
+2016-08-06 18:55:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:56:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:56:40 [INFO] : change_position ZH643000
+2016-08-06 18:57:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:57:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:57:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:57:51 [INFO] : change_position ZH644000
+2016-08-06 18:58:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:58:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:58:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:59:03 [INFO] : change_position ZH645000
+2016-08-06 18:59:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:59:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:59:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 18:59:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:00:18 [INFO] : change_position ZH646000
+2016-08-06 19:00:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:01:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:01:22 [INFO] : change_position ZH647000
+2016-08-06 19:02:34 [INFO] : change_position ZH648000
+2016-08-06 19:02:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:03:40 [INFO] : change_position ZH649000
+2016-08-06 19:04:43 [INFO] : change_position ZH650000
+2016-08-06 19:04:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:05:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:05:52 [INFO] : change_position ZH651000
+2016-08-06 19:06:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:06:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:06:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:07:00 [INFO] : change_position ZH652000
+2016-08-06 19:07:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:08:12 [INFO] : change_position ZH653000
+2016-08-06 19:08:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:08:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:09:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:09:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:09:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:09:27 [INFO] : change_position ZH654000
+2016-08-06 19:09:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:09:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:09:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:09:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:10:40 [INFO] : change_position ZH655000
+2016-08-06 19:11:44 [INFO] : change_position ZH656000
+2016-08-06 19:12:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:12:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:12:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:12:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:12:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:12:53 [INFO] : change_position ZH657000
+2016-08-06 19:14:13 [INFO] : change_position ZH658000
+2016-08-06 19:14:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:14:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:15:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:15:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:15:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:15:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:15:35 [INFO] : change_position ZH659000
+2016-08-06 19:15:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:16:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:16:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:16:47 [INFO] : change_position ZH660000
+2016-08-06 19:17:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:17:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:17:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:17:54 [INFO] : change_position ZH661000
+2016-08-06 19:19:05 [INFO] : change_position ZH662000
+2016-08-06 19:19:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:19:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:19:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:20:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:20:17 [INFO] : change_position ZH663000
+2016-08-06 19:21:25 [INFO] : change_position ZH664000
+2016-08-06 19:22:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:22:38 [INFO] : change_position ZH665000
+2016-08-06 19:22:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:23:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:23:49 [INFO] : change_position ZH666000
+2016-08-06 19:24:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:24:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:24:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:25:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:25:15 [INFO] : change_position ZH667000
+2016-08-06 19:25:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:26:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:26:36 [INFO] : change_position ZH668000
+2016-08-06 19:26:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:27:57 [INFO] : change_position ZH669000
+2016-08-06 19:28:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:28:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:28:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:29:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:29:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:29:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:29:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:29:37 [INFO] : change_position ZH670000
+2016-08-06 19:30:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:30:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:30:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:30:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:31:10 [INFO] : change_position ZH671000
+2016-08-06 19:32:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:32:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:32:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:32:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:32:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:32:56 [INFO] : change_position ZH672000
+2016-08-06 19:33:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:33:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:33:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:33:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:33:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:34:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:34:24 [INFO] : change_position ZH673000
+2016-08-06 19:34:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:34:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:34:48 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:34:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:35:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:35:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:35:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:35:58 [INFO] : change_position ZH674000
+2016-08-06 19:36:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:37:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:37:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:37:26 [INFO] : change_position ZH675000
+2016-08-06 19:38:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:38:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:38:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:38:54 [INFO] : change_position ZH676000
+2016-08-06 19:39:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:39:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:39:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:40:19 [INFO] : change_position ZH677000
+2016-08-06 19:41:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:41:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:41:45 [INFO] : change_position ZH678000
+2016-08-06 19:42:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:42:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:42:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:42:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:42:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:43:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:43:17 [INFO] : change_position ZH679000
+2016-08-06 19:44:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:44:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:44:38 [INFO] : change_position ZH680000
+2016-08-06 19:45:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:45:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:45:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:45:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:45:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:46:06 [INFO] : change_position ZH681000
+2016-08-06 19:46:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:46:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:46:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:46:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:46:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:46:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:46:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:46:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:47:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:47:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:47:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:47:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:47:48 [INFO] : change_position ZH682000
+2016-08-06 19:48:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:48:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:49:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:49:09 [INFO] : change_position ZH683000
+2016-08-06 19:49:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:49:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:50:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:50:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:50:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:50:38 [INFO] : change_position ZH684000
+2016-08-06 19:50:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:50:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:51:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:52:09 [INFO] : change_position ZH685000
+2016-08-06 19:52:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:52:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:53:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:53:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:53:39 [INFO] : change_position ZH686000
+2016-08-06 19:53:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:54:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:54:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:55:19 [INFO] : change_position ZH687000
+2016-08-06 19:55:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:55:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:55:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:56:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:56:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:56:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:56:53 [INFO] : change_position ZH688000
+2016-08-06 19:57:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:57:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:57:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:57:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:58:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:58:32 [INFO] : change_position ZH689000
+2016-08-06 19:58:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:58:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:59:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:59:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 19:59:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:00:12 [INFO] : change_position ZH690000
+2016-08-06 20:00:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:00:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:00:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:01:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:01:46 [INFO] : change_position ZH691000
+2016-08-06 20:02:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:03:10 [INFO] : change_position ZH692000
+2016-08-06 20:03:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:03:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:04:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:04:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:04:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:04:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:04:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:04:48 [INFO] : change_position ZH693000
+2016-08-06 20:05:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:05:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:05:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:05:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:06:26 [INFO] : change_position ZH694000
+2016-08-06 20:07:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:07:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:07:57 [INFO] : change_position ZH695000
+2016-08-06 20:09:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:09:23 [INFO] : change_position ZH696000
+2016-08-06 20:09:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:10:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:10:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:10:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:10:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:10:57 [INFO] : change_position ZH697000
+2016-08-06 20:11:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:12:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:12:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:12:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:12:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:12:32 [INFO] : change_position ZH698000
+2016-08-06 20:12:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:12:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:12:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:13:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:13:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:13:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:13:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:14:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:14:29 [INFO] : change_position ZH699000
+2016-08-06 20:14:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:15:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:15:55 [INFO] : change_position ZH700000
+2016-08-06 20:17:29 [INFO] : change_position ZH701000
+2016-08-06 20:18:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:18:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:18:52 [INFO] : change_position ZH702000
+2016-08-06 20:19:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:19:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:19:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:20:15 [INFO] : change_position ZH703000
+2016-08-06 20:20:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:21:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:21:35 [INFO] : change_position ZH704000
+2016-08-06 20:22:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:22:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:22:53 [INFO] : change_position ZH705000
+2016-08-06 20:24:04 [INFO] : change_position ZH706000
+2016-08-06 20:24:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:24:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:25:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:25:22 [INFO] : change_position ZH707000
+2016-08-06 20:25:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:25:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:26:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:26:38 [INFO] : change_position ZH708000
+2016-08-06 20:27:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:27:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:27:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:28:08 [INFO] : change_position ZH709000
+2016-08-06 20:28:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:28:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:28:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:29:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:29:27 [INFO] : change_position ZH710000
+2016-08-06 20:30:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:30:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:30:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:30:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:30:45 [INFO] : change_position ZH711000
+2016-08-06 20:31:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:31:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:31:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:32:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:32:03 [INFO] : change_position ZH712000
+2016-08-06 20:32:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:33:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:33:24 [INFO] : change_position ZH713000
+2016-08-06 20:34:45 [INFO] : change_position ZH714000
+2016-08-06 20:35:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:35:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:35:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:36:05 [INFO] : change_position ZH715000
+2016-08-06 20:37:26 [INFO] : change_position ZH716000
+2016-08-06 20:37:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:37:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:37:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:38:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:38:56 [INFO] : change_position ZH717000
+2016-08-06 20:40:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:40:16 [INFO] : change_position ZH718000
+2016-08-06 20:41:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:41:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:41:35 [INFO] : change_position ZH719000
+2016-08-06 20:42:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:42:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:42:49 [INFO] : change_position ZH720000
+2016-08-06 20:42:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:43:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:44:03 [INFO] : change_position ZH721000
+2016-08-06 20:45:13 [INFO] : change_position ZH722000
+2016-08-06 20:46:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:46:27 [INFO] : change_position ZH723000
+2016-08-06 20:46:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:46:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:47:40 [INFO] : change_position ZH724000
+2016-08-06 20:48:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:48:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:48:57 [INFO] : change_position ZH725000
+2016-08-06 20:49:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:49:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:49:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:50:12 [INFO] : change_position ZH726000
+2016-08-06 20:50:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:51:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:51:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:51:25 [INFO] : change_position ZH727000
+2016-08-06 20:51:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:52:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:52:41 [INFO] : change_position ZH728000
+2016-08-06 20:52:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:52:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:53:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:53:58 [INFO] : change_position ZH729000
+2016-08-06 20:54:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:54:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:54:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:54:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:54:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:55:22 [INFO] : change_position ZH730000
+2016-08-06 20:56:27 [INFO] : change_position ZH731000
+2016-08-06 20:57:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:57:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:57:35 [INFO] : change_position ZH732000
+2016-08-06 20:58:43 [INFO] : change_position ZH733000
+2016-08-06 20:58:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 20:59:54 [INFO] : change_position ZH734000
+2016-08-06 20:59:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:00:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:00:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:01:08 [INFO] : change_position ZH735000
+2016-08-06 21:02:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:02:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:02:14 [INFO] : change_position ZH736000
+2016-08-06 21:02:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:02:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:02:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:03:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:03:23 [INFO] : change_position ZH737000
+2016-08-06 21:04:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:04:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:04:28 [INFO] : change_position ZH738000
+2016-08-06 21:04:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:05:35 [INFO] : change_position ZH739000
+2016-08-06 21:06:40 [INFO] : change_position ZH740000
+2016-08-06 21:06:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:07:46 [INFO] : change_position ZH741000
+2016-08-06 21:08:49 [INFO] : change_position ZH742000
+2016-08-06 21:09:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:10:05 [INFO] : change_position ZH743000
+2016-08-06 21:10:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:11:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:11:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:11:19 [INFO] : change_position ZH744000
+2016-08-06 21:12:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:12:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:12:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:12:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:12:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:12:40 [INFO] : change_position ZH745000
+2016-08-06 21:13:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:13:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:13:49 [INFO] : change_position ZH746000
+2016-08-06 21:14:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:14:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:14:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:15:02 [INFO] : change_position ZH747000
+2016-08-06 21:16:07 [INFO] : change_position ZH748000
+2016-08-06 21:16:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:17:17 [INFO] : change_position ZH749000
+2016-08-06 21:18:30 [INFO] : change_position ZH750000
+2016-08-06 21:19:37 [INFO] : change_position ZH751000
+2016-08-06 21:19:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:20:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:20:50 [INFO] : change_position ZH752000
+2016-08-06 21:21:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:21:57 [INFO] : change_position ZH753000
+2016-08-06 21:23:07 [INFO] : change_position ZH754000
+2016-08-06 21:24:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:24:24 [INFO] : change_position ZH755000
+2016-08-06 21:25:28 [INFO] : change_position ZH756000
+2016-08-06 21:26:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:26:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:26:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:26:42 [INFO] : change_position ZH757000
+2016-08-06 21:26:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:27:53 [INFO] : change_position ZH758000
+2016-08-06 21:28:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:28:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:29:06 [INFO] : change_position ZH759000
+2016-08-06 21:29:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:30:21 [INFO] : change_position ZH760000
+2016-08-06 21:31:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:31:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:31:30 [INFO] : change_position ZH761000
+2016-08-06 21:32:34 [INFO] : change_position ZH762000
+2016-08-06 21:33:30 [INFO] : change_position ZH763000
+2016-08-06 21:34:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:34:37 [INFO] : change_position ZH764000
+2016-08-06 21:35:35 [INFO] : change_position ZH765000
+2016-08-06 21:35:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:36:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:36:39 [INFO] : change_position ZH766000
+2016-08-06 21:36:50 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:37:42 [INFO] : change_position ZH767000
+2016-08-06 21:38:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:38:45 [INFO] : change_position ZH768000
+2016-08-06 21:39:47 [INFO] : change_position ZH769000
+2016-08-06 21:39:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:40:48 [INFO] : change_position ZH770000
+2016-08-06 21:40:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:41:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:41:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:41:55 [INFO] : change_position ZH771000
+2016-08-06 21:42:57 [INFO] : change_position ZH772000
+2016-08-06 21:43:58 [INFO] : change_position ZH773000
+2016-08-06 21:45:03 [INFO] : change_position ZH774000
+2016-08-06 21:45:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:45:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:46:11 [INFO] : change_position ZH775000
+2016-08-06 21:47:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:47:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:47:15 [INFO] : change_position ZH776000
+2016-08-06 21:47:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:47:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:48:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:48:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:48:35 [INFO] : change_position ZH777000
+2016-08-06 21:48:45 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:49:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:49:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:49:55 [INFO] : change_position ZH778000
+2016-08-06 21:50:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:50:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:51:10 [INFO] : change_position ZH779000
+2016-08-06 21:51:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:51:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:52:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:52:30 [INFO] : change_position ZH780000
+2016-08-06 21:53:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:53:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:53:42 [INFO] : change_position ZH781000
+2016-08-06 21:54:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:54:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:54:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:54:52 [INFO] : change_position ZH782000
+2016-08-06 21:55:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:55:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:56:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:56:02 [INFO] : change_position ZH783000
+2016-08-06 21:56:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:57:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:57:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:57:14 [INFO] : change_position ZH784000
+2016-08-06 21:57:33 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:57:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:58:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:58:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:58:31 [INFO] : change_position ZH785000
+2016-08-06 21:58:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:59:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 21:59:42 [INFO] : change_position ZH786000
+2016-08-06 22:00:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:00:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:00:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:01:03 [INFO] : change_position ZH787000
+2016-08-06 22:01:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:01:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:01:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:02:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:02:29 [INFO] : change_position ZH788000
+2016-08-06 22:02:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:03:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:03:47 [INFO] : change_position ZH789000
+2016-08-06 22:03:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:04:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:05:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:05:13 [INFO] : change_position ZH790000
+2016-08-06 22:06:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:06:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:06:41 [INFO] : change_position ZH791000
+2016-08-06 22:07:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:07:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:07:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:07:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:07:35 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:07:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:08:03 [INFO] : change_position ZH792000
+2016-08-06 22:08:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:09:19 [INFO] : change_position ZH793000
+2016-08-06 22:10:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:10:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:10:39 [INFO] : change_position ZH794000
+2016-08-06 22:11:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:11:57 [INFO] : change_position ZH795000
+2016-08-06 22:12:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:12:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:12:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:12:29 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:13:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:13:15 [INFO] : change_position ZH796000
+2016-08-06 22:13:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:13:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:14:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:14:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:14:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:14:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:14:28 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:14:38 [INFO] : change_position ZH797000
+2016-08-06 22:15:54 [INFO] : change_position ZH798000
+2016-08-06 22:16:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:17:08 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:17:10 [INFO] : change_position ZH799000
+2016-08-06 22:17:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:17:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:18:24 [INFO] : change_position ZH800000
+2016-08-06 22:18:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:19:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:19:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:19:42 [INFO] : change_position ZH801000
+2016-08-06 22:19:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:19:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:20:12 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:20:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:20:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:21:17 [INFO] : change_position ZH802000
+2016-08-06 22:21:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:22:45 [INFO] : change_position ZH803000
+2016-08-06 22:23:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:23:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:23:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:24:15 [INFO] : change_position ZH804000
+2016-08-06 22:24:24 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:24:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:25:31 [INFO] : change_position ZH805000
+2016-08-06 22:25:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:26:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:26:52 [INFO] : change_position ZH806000
+2016-08-06 22:28:10 [INFO] : change_position ZH807000
+2016-08-06 22:28:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:28:59 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:29:18 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:29:34 [INFO] : change_position ZH808000
+2016-08-06 22:30:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:30:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:30:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:30:16 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:30:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:30:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:30:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:30:57 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:31:00 [INFO] : change_position ZH809000
+2016-08-06 22:32:20 [INFO] : change_position ZH810000
+2016-08-06 22:32:54 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:33:36 [INFO] : change_position ZH811000
+2016-08-06 22:33:47 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:34:50 [INFO] : change_position ZH812000
+2016-08-06 22:35:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:35:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:36:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:36:05 [INFO] : change_position ZH813000
+2016-08-06 22:37:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:37:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:37:21 [INFO] : change_position ZH814000
+2016-08-06 22:38:04 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:38:14 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:38:30 [INFO] : change_position ZH815000
+2016-08-06 22:38:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:39:35 [INFO] : change_position ZH816000
+2016-08-06 22:40:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:40:46 [INFO] : change_position ZH817000
+2016-08-06 22:41:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:42:03 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:42:04 [INFO] : change_position ZH818000
+2016-08-06 22:43:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:43:17 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:43:19 [INFO] : change_position ZH819000
+2016-08-06 22:43:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:43:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:43:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:44:39 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:44:44 [INFO] : change_position ZH820000
+2016-08-06 22:46:10 [INFO] : change_position ZH821000
+2016-08-06 22:46:36 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:47:02 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:47:20 [INFO] : change_position ZH822000
+2016-08-06 22:47:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:47:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:48:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:48:42 [INFO] : change_position ZH823000
+2016-08-06 22:49:11 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:49:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:49:59 [INFO] : change_position ZH824000
+2016-08-06 22:50:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:51:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:51:22 [INFO] : change_position ZH825000
+2016-08-06 22:51:41 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:51:44 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:51:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:51:55 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:52:49 [INFO] : change_position ZH826000
+2016-08-06 22:53:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:54:15 [INFO] : change_position ZH827000
+2016-08-06 22:55:33 [INFO] : change_position ZH828000
+2016-08-06 22:56:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:56:51 [INFO] : change_position ZH829000
+2016-08-06 22:57:22 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:57:26 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:57:58 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:58:09 [INFO] : change_position ZH830000
+2016-08-06 22:58:49 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 22:59:26 [INFO] : change_position ZH831000
+2016-08-06 23:00:34 [INFO] : change_position ZH832000
+2016-08-06 23:01:45 [INFO] : change_position ZH833000
+2016-08-06 23:02:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:02:56 [INFO] : change_position ZH834000
+2016-08-06 23:04:01 [INFO] : change_position ZH835000
+2016-08-06 23:05:08 [INFO] : change_position ZH836000
+2016-08-06 23:05:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:05:46 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:06:18 [INFO] : change_position ZH837000
+2016-08-06 23:07:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:07:28 [INFO] : change_position ZH838000
+2016-08-06 23:07:56 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:08:37 [INFO] : change_position ZH839000
+2016-08-06 23:09:06 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:09:44 [INFO] : change_position ZH840000
+2016-08-06 23:09:51 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:10:53 [INFO] : change_position ZH841000
+2016-08-06 23:11:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:11:58 [INFO] : change_position ZH842000
+2016-08-06 23:12:30 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:13:04 [INFO] : change_position ZH843000
+2016-08-06 23:14:06 [INFO] : change_position ZH844000
+2016-08-06 23:15:08 [INFO] : change_position ZH845000
+2016-08-06 23:15:20 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:16:09 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:16:15 [INFO] : change_position ZH846000
+2016-08-06 23:16:40 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:17:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:17:18 [INFO] : change_position ZH847000
+2016-08-06 23:17:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:17:52 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:18:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:18:31 [INFO] : change_position ZH848000
+2016-08-06 23:19:43 [INFO] : change_position ZH849000
+2016-08-06 23:20:48 [INFO] : change_position ZH850000
+2016-08-06 23:21:48 [INFO] : change_position ZH851000
+2016-08-06 23:22:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:22:54 [INFO] : change_position ZH852000
+2016-08-06 23:23:56 [INFO] : change_position ZH853000
+2016-08-06 23:24:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:25:10 [INFO] : change_position ZH854000
+2016-08-06 23:25:53 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:26:23 [INFO] : change_position ZH855000
+2016-08-06 23:27:30 [INFO] : change_position ZH856000
+2016-08-06 23:28:01 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:28:43 [INFO] : change_position ZH857000
+2016-08-06 23:29:47 [INFO] : change_position ZH858000
+2016-08-06 23:30:55 [INFO] : change_position ZH859000
+2016-08-06 23:31:43 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:31:56 [INFO] : change_position ZH860000
+2016-08-06 23:32:59 [INFO] : change_position ZH861000
+2016-08-06 23:33:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:34:00 [INFO] : change_position ZH862000
+2016-08-06 23:34:15 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:35:09 [INFO] : change_position ZH863000
+2016-08-06 23:36:12 [INFO] : change_position ZH864000
+2016-08-06 23:36:31 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:37:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:37:21 [INFO] : change_position ZH865000
+2016-08-06 23:38:25 [INFO] : change_position ZH866000
+2016-08-06 23:39:07 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:39:36 [INFO] : change_position ZH867000
+2016-08-06 23:40:10 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:40:13 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:40:34 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:40:48 [INFO] : change_position ZH868000
+2016-08-06 23:41:42 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:42:04 [INFO] : change_position ZH869000
+2016-08-06 23:42:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:42:32 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:43:17 [INFO] : change_position ZH870000
+2016-08-06 23:44:23 [INFO] : change_position ZH871000
+2016-08-06 23:44:25 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:45:30 [INFO] : change_position ZH872000
+2016-08-06 23:46:39 [INFO] : change_position ZH873000
+2016-08-06 23:47:23 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:47:46 [INFO] : change_position ZH874000
+2016-08-06 23:48:19 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:48:50 [INFO] : change_position ZH875000
+2016-08-06 23:49:51 [INFO] : change_position ZH876000
+2016-08-06 23:50:37 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:50:52 [INFO] : change_position ZH877000
+2016-08-06 23:51:55 [INFO] : change_position ZH878000
+2016-08-06 23:53:05 [INFO] : change_position ZH879000
+2016-08-06 23:54:05 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:54:11 [INFO] : change_position ZH880000
+2016-08-06 23:55:12 [INFO] : change_position ZH881000
+2016-08-06 23:55:21 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:56:13 [INFO] : change_position ZH882000
+2016-08-06 23:57:08 [INFO] : change_position ZH883000
+2016-08-06 23:58:00 [ERROR] : get_change_position 'list' on line 103
+2016-08-06 23:58:06 [INFO] : change_position ZH884000
+2016-08-06 23:59:03 [INFO] : change_position ZH885000
+2016-08-06 23:59:58 [INFO] : change_position ZH886000
+2016-08-07 00:00:58 [INFO] : change_position ZH887000
+2016-08-07 00:01:58 [INFO] : change_position ZH888000
+2016-08-07 00:02:53 [INFO] : change_position ZH889000
+2016-08-07 00:03:38 [ERROR] : get_change_position 'list' on line 103
+2016-08-07 00:03:52 [INFO] : change_position ZH890000
+2016-08-07 00:04:51 [INFO] : change_position ZH891000
+2016-08-07 00:05:27 [ERROR] : get_change_position 'list' on line 103
+2016-08-07 00:05:47 [INFO] : change_position ZH892000
+2016-08-07 00:06:42 [INFO] : change_position ZH893000
+2016-08-07 00:07:38 [INFO] : change_position ZH894000
+2016-08-07 00:08:35 [INFO] : change_position ZH895000
+2016-08-07 00:09:39 [INFO] : change_position ZH896000
+2016-08-07 00:10:38 [INFO] : change_position ZH897000
+2016-08-07 00:11:35 [INFO] : change_position ZH898000
+2016-08-07 00:12:28 [INFO] : change_position ZH899000
