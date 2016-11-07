@@ -113,9 +113,8 @@ class Crawler(object):
 
     def get_stock_comment(self, stock_id):
         import re
-        from models.stock_comment import Comment
+        mongo = get_mongo_collection("xueqiu/comment")
         page, max_page = 1, 100
-        data = []
         while page <= max_page:
             try:
                 url = get_settings("stock_comment_url") % (stock_id, page, self.token)
@@ -130,17 +129,16 @@ class Crawler(object):
                 for record in resp.get('list'):
                     text = re.sub("<.+?>", "", record.get("text") or record.get('description', ""))
                     text = text[:min(len(text), 999)]
-                    data.append(Comment(
+                    mongo.insert(dict(
                         text=text,
                         created_at=record['created_at'] / 1000,
-                        # id=record['id'],
                         user_id=record['user_id'],
                         stock_id=stock_id,
+                        id=record['id']
                     ))
             except:
                 s = sys.exc_info()
                 log.error('get_stock_comment %s on line %d' % (s[1], s[2].tb_lineno))
-        return data
 
 
     @staticmethod

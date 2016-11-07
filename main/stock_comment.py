@@ -20,21 +20,17 @@ def get_all_stocks():
 def worker(stock_id):
     try:
         crawler = Crawler()
-        comments = crawler.get_stock_comment(stock_id)
-        session = get_alchemy_session()
-        session.add_all(comments)
-        session.commit()
-        session.flush()
-        print stock_id, len(comments)
+        crawler.get_stock_comment(stock_id)
+        print stock_id
     except:
         s = sys.exc_info()
-        print ('run %s on line %d.' % (s[1], s[2].tb_lineno))
+        print ('worker %s on line %d.' % (s[1], s[2].tb_lineno))
 
 @safe_init_run
 def run(**kwargs):
     try:
+        """
         create()
-
         pool = Pool(2)
         reqs = makeRequests(worker, get_all_stocks())
         for req in reqs:
@@ -43,7 +39,7 @@ def run(**kwargs):
         """
         for stock_id in get_all_stocks():
             worker(stock_id)
-        """
+
     except:
         s = sys.exc_info()
         print ('run %s on line %d.' % (s[1], s[2].tb_lineno))
