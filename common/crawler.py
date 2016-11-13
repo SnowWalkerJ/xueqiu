@@ -113,23 +113,26 @@ class Crawler(object):
                 log.error('get_change_position %s on line %d' % (s[1], s[2].tb_lineno))
 
     def get_stock_comment(self, stock_id):
-        import re
-        mongo = get_mongo_collection("xueqiu/comment")
+        import re           # import regex
+        mongo = get_mongo_collection("xueqiu/comment")  # mongodb
         page, max_page = 1, 100
-        while page <= max_page:
+        while page <= max_page:                         # keep going to next page until reach max_page
             try:
-                url = get_settings("stock_comment_url") % (stock_id, page, self.token)
-                resp = self.session.get(url, headers=self.headers).content
+                url = get_settings("stock_comment_url") % (stock_id, page, self.token)    # fill the parameters in the url
+                resp = self.session.get(url, headers=self.headers).content    # get the webpage content
                 try:
-                    resp = json.loads(resp)
+                    resp = json.loads(resp)             # translate from json string to dict
                 except:
                     break
                 max_page = resp.get('maxPage', 100)
                 if not resp.get('list'):
                     break
                 for record in resp.get('list'):
+                    # get the "text" key or "description" key, and remove the html tags
                     text = re.sub("<.+?>", "", record.get("text") or record.get('description', ""))
+                    # maximum length of 999
                     text = text[:min(len(text), 999)]
+                    # insert the comment into the database
                     mongo.insert(dict(
                         text=text,
                         created_at=record['created_at'] / 1000,
@@ -137,7 +140,8 @@ class Crawler(object):
                         stock_id=stock_id,
                         id=record['id']
                     ))
-                sleep(1)
+                sleep(1)    # sleep for a second to void anti-crawler
+                page += 1   # net page
             except:
                 s = sys.exc_info()
                 log.error('get_stock_comment %s on line %d' % (s[1], s[2].tb_lineno))
